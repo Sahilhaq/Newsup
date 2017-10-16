@@ -1,0 +1,23 @@
+
+.article-img {
+    width: 230px;
+    height: auto;
+}
+
+.btn--no-hover:hover {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+option:hover {
+    cursor: pointer;
+}
+
+.d-menu {
+    width: 500px;
+    transform: translateX(-70%);
+}
+
+.container {
+    max-width: 800px !important; 
+}
